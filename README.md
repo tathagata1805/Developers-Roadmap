@@ -12,17 +12,6 @@ Below you find a set of charts demonstrating the paths that you can take and the
 
 ***
 
-<p align="center">
-		<sup>Special Announcement:</sup>
-		<br>
-		<a href="https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1">
-			<img width="70px" src="https://roadmap.sh/sponsors/youtube.svg">
-		</a>
-		<br>
-</p>
-
-***
-
 <h3 align="center"><strong>Purpose of these Roadmaps</strong></h3>
 
 > The purpose of these roadmaps is to give you an idea about the landscape and to guide you if you are confused about what to learn next and not to encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy never means best suited for the job.
