@@ -19,9 +19,6 @@ Below you find a set of charts demonstrating the paths that you can take and the
 			<img width="70px" src="https://roadmap.sh/sponsors/youtube.svg">
 		</a>
 		<br>
-		<sub><b>We now have a YouTube Channel</b></sub>
-		<br>
-		<sub>I plan on covering the roadmaps and put more content there<br><a href="https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1">Subscribe to the channel</a>.</sub>
 </p>
 
 ***
@@ -63,16 +60,6 @@ If you think that these can be improved in any way, please do suggest.
 ## 🚦 Wrap Up
 
 If you think any of the roadmaps can be improved, feel free to discuss it in the issues. Also, I will continue to improve this, so you might want to watch this repository or subscribe at [roadmap.sh](http://roadmap.sh) to revisit.
-
-## 🙌 Contribution
-
-> Have a look at [contribution docs](./CONTRIBUTING.md) for how to update any of the roadmaps
-
-- Open pull request with improvements
-- Discuss ideas in issues
-- Spread the word
-- Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
- 
 ## License
 
 Have a look at the [license file](./LICENSE) for details
